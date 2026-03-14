@@ -1,0 +1,21 @@
+[
+  {
+    "image": "/promo1.jpg",
+    "title": "Australia & New Zealand: Save up to 25% off*",
+    "subtitle": "",
+    "buttonText": "Book now"
+  },
+  {
+    "image": "/promo2.jpg",
+    "title": "Members save up to 20%",
+    "subtitle": "Not a member yet? Save up to 15%.",
+    "buttonText": "Save now",
+    "ribbon": "WINTER SALE"
+  },
+  {
+    "image": "/promo3.jpg",
+    "title": "Get more with Bunny Gold+",
+    "subtitle": "Easier. Faster. More rewarding.",
+    "buttonText": "Join for free"
+  }
+]
