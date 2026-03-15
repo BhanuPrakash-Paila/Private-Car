@@ -10,7 +10,7 @@ export default function Home() {
       <SearchForm />
       {/* Optionally, add a car image at the bottom left for effect */}
       <div className="absolute left-0 bottom-0 w-1/3 max-w-xs hidden sm:block">
-        <img src="/car-side.png" alt="Car" className="w-full h-auto" />
+        <img src="/assets/car-side.svg" alt="Car" className="w-full h-auto" />
       </div>
     </div>
   );
